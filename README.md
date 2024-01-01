@@ -13,4 +13,4 @@ This application fetches product data from a provided API, parses the JSON, and 
 
 Check out the animated demo below:
 
-![Application Demo](demo/task1 demo.gif)
+[Application Demo](demo/task1 demo.gif)
