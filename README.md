@@ -10,7 +10,7 @@ This application fetches product data from a provided API, parses the JSON, and 
 2. The table is ordered based on the descending popularity of the products.
 
 ## Website link
-Check out my website: https://www.example.com
+Check out my website:  https://abhishekydv097.github.io/Smartserv-t1-main/
 
 ## Demo
 
